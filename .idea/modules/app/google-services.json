@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161695749623",
+    "firebase_url": "https://maskotas-61596.firebaseio.com",
+    "project_id": "maskotas-61596",
+    "storage_bucket": "maskotas-61596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161695749623:android:82933f8fc10a2f2f0f8af2",
+        "android_client_info": {
+          "package_name": "com.innovasoft.maskotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161695749623-95oftvilpm5tngc86q1c5novm4oisusb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovasoft.maskotas",
+            "certificate_hash": "3562beebd449dc40662a886f1b8d8680359d725a"
+          }
+        },
+        {
+          "client_id": "161695749623-iurdn5tivbpitm83hmtnro40v1qrc9mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztBwbkeFemXZEVVDcEfjTMs3hJ1dhoP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161695749623-iurdn5tivbpitm83hmtnro40v1qrc9mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
